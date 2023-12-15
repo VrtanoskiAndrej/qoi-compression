@@ -1,0 +1,2301 @@
+[
+    {
+        "png": {
+            "encode": 2071775,
+            "decode": 134455,
+            "size": 6645472
+        },
+        "qoi": {
+            "encode": 44378,
+            "decode": 35108,
+            "size": 7131642
+        },
+        "name": "fireworks.png",
+        "epoch": 0,
+        "dimension": [
+            3136,
+            2352
+        ],
+        "pixels": 7375872
+    },
+    {
+        "png": {
+            "encode": 6158185,
+            "decode": 203797,
+            "size": 12555432
+        },
+        "qoi": {
+            "encode": 82501,
+            "decode": 76296,
+            "size": 14334338
+        },
+        "name": "spider_web.png",
+        "epoch": 0,
+        "dimension": [
+            4256,
+            2848
+        ],
+        "pixels": 12121088
+    },
+    {
+        "png": {
+            "encode": 2284804,
+            "decode": 231308,
+            "size": 24726072
+        },
+        "qoi": {
+            "encode": 131815,
+            "decode": 40610,
+            "size": 38170231
+        },
+        "name": "deer.png",
+        "epoch": 0,
+        "dimension": [
+            4043,
+            2641
+        ],
+        "pixels": 10677563
+    },
+    {
+        "png": {
+            "encode": 3280176,
+            "decode": 261995,
+            "size": 23320267
+        },
+        "qoi": {
+            "encode": 122793,
+            "decode": 54469,
+            "size": 31607810
+        },
+        "name": "bridge.png",
+        "epoch": 0,
+        "dimension": [
+            2749,
+            4049
+        ],
+        "pixels": 11130701
+    },
+    {
+        "png": {
+            "encode": 423764,
+            "decode": 52711,
+            "size": 1951795
+        },
+        "qoi": {
+            "encode": 18192,
+            "decode": 11127,
+            "size": 2076366
+        },
+        "name": "artificial.png",
+        "epoch": 0,
+        "dimension": [
+            3072,
+            2048
+        ],
+        "pixels": 6291456
+    },
+    {
+        "png": {
+            "encode": 2515331,
+            "decode": 125562,
+            "size": 10924642
+        },
+        "qoi": {
+            "encode": 54658,
+            "decode": 29607,
+            "size": 12641546
+        },
+        "name": "cathedral.png",
+        "epoch": 0,
+        "dimension": [
+            2000,
+            3008
+        ],
+        "pixels": 6016000
+    },
+    {
+        "png": {
+            "encode": 3407314,
+            "decode": 106106,
+            "size": 8351197
+        },
+        "qoi": {
+            "encode": 50504,
+            "decode": 40233,
+            "size": 8762752
+        },
+        "name": "hdr.png",
+        "epoch": 0,
+        "dimension": [
+            3072,
+            2048
+        ],
+        "pixels": 6291456
+    },
+    {
+        "png": {
+            "encode": 1455152,
+            "decode": 51961,
+            "size": 3652904
+        },
+        "qoi": {
+            "encode": 26455,
+            "decode": 22403,
+            "size": 4446798
+        },
+        "name": "flower_foveon.png",
+        "epoch": 0,
+        "dimension": [
+            2268,
+            1512
+        ],
+        "pixels": 3429216
+    },
+    {
+        "png": {
+            "encode": 3402734,
+            "decode": 131213,
+            "size": 9018095
+        },
+        "qoi": {
+            "encode": 61369,
+            "decode": 51154,
+            "size": 9959528
+        },
+        "name": "nightshot_iso_100.png",
+        "epoch": 0,
+        "dimension": [
+            3136,
+            2352
+        ],
+        "pixels": 7375872
+    },
+    {
+        "png": {
+            "encode": 2332368,
+            "decode": 140519,
+            "size": 11677810
+        },
+        "qoi": {
+            "encode": 53394,
+            "decode": 31245,
+            "size": 12365162
+        },
+        "name": "leaves_iso_200.png",
+        "epoch": 0,
+        "dimension": [
+            3008,
+            2000
+        ],
+        "pixels": 6016000
+    },
+    {
+        "png": {
+            "encode": 1848116,
+            "decode": 148742,
+            "size": 13152670
+        },
+        "qoi": {
+            "encode": 56781,
+            "decode": 28660,
+            "size": 15716068
+        },
+        "name": "leaves_iso_1600.png",
+        "epoch": 0,
+        "dimension": [
+            3008,
+            2000
+        ],
+        "pixels": 6016000
+    },
+    {
+        "png": {
+            "encode": 2625084,
+            "decode": 157469,
+            "size": 14583099
+        },
+        "qoi": {
+            "encode": 78462,
+            "decode": 41396,
+            "size": 19376709
+        },
+        "name": "nightshot_iso_1600.png",
+        "epoch": 0,
+        "dimension": [
+            3136,
+            2352
+        ],
+        "pixels": 7375872
+    },
+    {
+        "png": {
+            "encode": 1433,
+            "decode": 253,
+            "size": 6628
+        },
+        "qoi": {
+            "encode": 754,
+            "decode": 40,
+            "size": 6301
+        },
+        "name": "calathea.png",
+        "epoch": 0,
+        "dimension": [
+            128,
+            128
+        ],
+        "pixels": 16384
+    },
+    {
+        "png": {
+            "encode": 1274,
+            "decode": 220,
+            "size": 4345
+        },
+        "qoi": {
+            "encode": 146,
+            "decode": 54,
+            "size": 5413
+        },
+        "name": "mailicon.png",
+        "epoch": 0,
+        "dimension": [
+            150,
+            150
+        ],
+        "pixels": 22500
+    },
+    {
+        "png": {
+            "encode": 258,
+            "decode": 114,
+            "size": 1558
+        },
+        "qoi": {
+            "encode": 100,
+            "decode": 24,
+            "size": 1897
+        },
+        "name": "letter-c.png",
+        "epoch": 0,
+        "dimension": [
+            32,
+            32
+        ],
+        "pixels": 1024
+    },
+    {
+        "png": {
+            "encode": 3699,
+            "decode": 499,
+            "size": 19501
+        },
+        "qoi": {
+            "encode": 241,
+            "decode": 100,
+            "size": 20073
+        },
+        "name": "earth.png",
+        "epoch": 0,
+        "dimension": [
+            256,
+            256
+        ],
+        "pixels": 65536
+    },
+    {
+        "png": {
+            "encode": 793,
+            "decode": 224,
+            "size": 3606
+        },
+        "qoi": {
+            "encode": 177,
+            "decode": 29,
+            "size": 3210
+        },
+        "name": "coding.png",
+        "epoch": 0,
+        "dimension": [
+            128,
+            128
+        ],
+        "pixels": 16384
+    },
+    {
+        "png": {
+            "encode": 32758,
+            "decode": 4020,
+            "size": 407169
+        },
+        "qoi": {
+            "encode": 2021,
+            "decode": 615,
+            "size": 576672
+        },
+        "name": "wrinkled_0023.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            333
+        ],
+        "pixels": 166500
+    },
+    {
+        "png": {
+            "encode": 36215,
+            "decode": 3931,
+            "size": 427882
+        },
+        "qoi": {
+            "encode": 1671,
+            "decode": 711,
+            "size": 486808
+        },
+        "name": "cobwebbed_0044.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            331
+        ],
+        "pixels": 165500
+    },
+    {
+        "png": {
+            "encode": 50690,
+            "decode": 7908,
+            "size": 786634
+        },
+        "qoi": {
+            "encode": 2837,
+            "decode": 1050,
+            "size": 898382
+        },
+        "name": "grid_0012.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            427
+        ],
+        "pixels": 273280
+    },
+    {
+        "png": {
+            "encode": 98077,
+            "decode": 6173,
+            "size": 446142
+        },
+        "qoi": {
+            "encode": 2848,
+            "decode": 1767,
+            "size": 466112
+        },
+        "name": "dotted_0089.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 78137,
+            "decode": 5877,
+            "size": 550488
+        },
+        "qoi": {
+            "encode": 2120,
+            "decode": 1161,
+            "size": 516208
+        },
+        "name": "grid_0013.png",
+        "epoch": 0,
+        "dimension": [
+            639,
+            438
+        ],
+        "pixels": 279882
+    },
+    {
+        "png": {
+            "encode": 95965,
+            "decode": 6922,
+            "size": 508605
+        },
+        "qoi": {
+            "encode": 2777,
+            "decode": 1817,
+            "size": 528809
+        },
+        "name": "cobwebbed_0045.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            500
+        ],
+        "pixels": 250000
+    },
+    {
+        "png": {
+            "encode": 62386,
+            "decode": 4154,
+            "size": 395978
+        },
+        "qoi": {
+            "encode": 1619,
+            "decode": 923,
+            "size": 386558
+        },
+        "name": "cobwebbed_0047.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            380
+        ],
+        "pixels": 190000
+    },
+    {
+        "png": {
+            "encode": 29221,
+            "decode": 4115,
+            "size": 416932
+        },
+        "qoi": {
+            "encode": 1901,
+            "decode": 520,
+            "size": 540887
+        },
+        "name": "dotted_0074.png",
+        "epoch": 0,
+        "dimension": [
+            312,
+            480
+        ],
+        "pixels": 149760
+    },
+    {
+        "png": {
+            "encode": 52338,
+            "decode": 3708,
+            "size": 297207
+        },
+        "qoi": {
+            "encode": 1707,
+            "decode": 1420,
+            "size": 313004
+        },
+        "name": "cobwebbed_0046.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            426
+        ],
+        "pixels": 272640
+    },
+    {
+        "png": {
+            "encode": 56085,
+            "decode": 3958,
+            "size": 440271
+        },
+        "qoi": {
+            "encode": 1460,
+            "decode": 868,
+            "size": 391833
+        },
+        "name": "wrinkled_0025.png",
+        "epoch": 0,
+        "dimension": [
+            450,
+            450
+        ],
+        "pixels": 202500
+    },
+    {
+        "png": {
+            "encode": 71138,
+            "decode": 4840,
+            "size": 387261
+        },
+        "qoi": {
+            "encode": 1531,
+            "decode": 1024,
+            "size": 391637
+        },
+        "name": "bubbly_0077.png",
+        "epoch": 0,
+        "dimension": [
+            452,
+            480
+        ],
+        "pixels": 216960
+    },
+    {
+        "png": {
+            "encode": 38328,
+            "decode": 3136,
+            "size": 303908
+        },
+        "qoi": {
+            "encode": 2786,
+            "decode": 673,
+            "size": 295761
+        },
+        "name": "swirly_0069.png",
+        "epoch": 0,
+        "dimension": [
+            400,
+            325
+        ],
+        "pixels": 130000
+    },
+    {
+        "png": {
+            "encode": 115713,
+            "decode": 7540,
+            "size": 560282
+        },
+        "qoi": {
+            "encode": 2963,
+            "decode": 1925,
+            "size": 573681
+        },
+        "name": "swirly_0068.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            520
+        ],
+        "pixels": 332800
+    },
+    {
+        "png": {
+            "encode": 98968,
+            "decode": 7153,
+            "size": 616317
+        },
+        "qoi": {
+            "encode": 2298,
+            "decode": 1402,
+            "size": 603093
+        },
+        "name": "grid_0015.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 42706,
+            "decode": 3803,
+            "size": 405692
+        },
+        "qoi": {
+            "encode": 1433,
+            "decode": 830,
+            "size": 358841
+        },
+        "name": "wrinkled_0024.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            333
+        ],
+        "pixels": 166500
+    },
+    {
+        "png": {
+            "encode": 42627,
+            "decode": 2604,
+            "size": 157743
+        },
+        "qoi": {
+            "encode": 1056,
+            "decode": 615,
+            "size": 193751
+        },
+        "name": "bubbly_0076.png",
+        "epoch": 0,
+        "dimension": [
+            352,
+            320
+        ],
+        "pixels": 112640
+    },
+    {
+        "png": {
+            "encode": 85218,
+            "decode": 6341,
+            "size": 416758
+        },
+        "qoi": {
+            "encode": 2569,
+            "decode": 1950,
+            "size": 473238
+        },
+        "name": "wrinkled_0026.png",
+        "epoch": 0,
+        "dimension": [
+            479,
+            639
+        ],
+        "pixels": 306081
+    },
+    {
+        "png": {
+            "encode": 86380,
+            "decode": 6606,
+            "size": 590285
+        },
+        "qoi": {
+            "encode": 2630,
+            "decode": 1797,
+            "size": 537809
+        },
+        "name": "cobwebbed_0041.png",
+        "epoch": 0,
+        "dimension": [
+            639,
+            426
+        ],
+        "pixels": 272214
+    },
+    {
+        "png": {
+            "encode": 30388,
+            "decode": 3830,
+            "size": 407006
+        },
+        "qoi": {
+            "encode": 1752,
+            "decode": 529,
+            "size": 509506
+        },
+        "name": "dotted_0073.png",
+        "epoch": 0,
+        "dimension": [
+            480,
+            312
+        ],
+        "pixels": 149760
+    },
+    {
+        "png": {
+            "encode": 95041,
+            "decode": 5847,
+            "size": 551275
+        },
+        "qoi": {
+            "encode": 2596,
+            "decode": 1210,
+            "size": 582709
+        },
+        "name": "dotted_0072.png",
+        "epoch": 0,
+        "dimension": [
+            429,
+            640
+        ],
+        "pixels": 274560
+    },
+    {
+        "png": {
+            "encode": 17289,
+            "decode": 2438,
+            "size": 256788
+        },
+        "qoi": {
+            "encode": 1088,
+            "decode": 357,
+            "size": 305152
+        },
+        "name": "grid_0016.png",
+        "epoch": 0,
+        "dimension": [
+            300,
+            300
+        ],
+        "pixels": 90000
+    },
+    {
+        "png": {
+            "encode": 89899,
+            "decode": 5350,
+            "size": 467169
+        },
+        "qoi": {
+            "encode": 2247,
+            "decode": 1251,
+            "size": 482846
+        },
+        "name": "bubbly_0075.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            426
+        ],
+        "pixels": 272640
+    },
+    {
+        "png": {
+            "encode": 79903,
+            "decode": 5515,
+            "size": 566648
+        },
+        "qoi": {
+            "encode": 2238,
+            "decode": 1642,
+            "size": 512901
+        },
+        "name": "wrinkled_0027.png",
+        "epoch": 0,
+        "dimension": [
+            464,
+            640
+        ],
+        "pixels": 296960
+    },
+    {
+        "png": {
+            "encode": 10211,
+            "decode": 661,
+            "size": 5984
+        },
+        "qoi": {
+            "encode": 640,
+            "decode": 447,
+            "size": 110474
+        },
+        "name": "banded_0044.png",
+        "epoch": 0,
+        "dimension": [
+            639,
+            460
+        ],
+        "pixels": 293940
+    },
+    {
+        "png": {
+            "encode": 35682,
+            "decode": 2358,
+            "size": 185708
+        },
+        "qoi": {
+            "encode": 1103,
+            "decode": 623,
+            "size": 200977
+        },
+        "name": "perforated_0036.png",
+        "epoch": 0,
+        "dimension": [
+            320,
+            320
+        ],
+        "pixels": 102400
+    },
+    {
+        "png": {
+            "encode": 130380,
+            "decode": 6525,
+            "size": 445993
+        },
+        "qoi": {
+            "encode": 2510,
+            "decode": 1786,
+            "size": 501766
+        },
+        "name": "frilly_0015.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 102119,
+            "decode": 6039,
+            "size": 462373
+        },
+        "qoi": {
+            "encode": 2028,
+            "decode": 1254,
+            "size": 478413
+        },
+        "name": "crystalline_0114.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            415
+        ],
+        "pixels": 265600
+    },
+    {
+        "png": {
+            "encode": 27023,
+            "decode": 2314,
+            "size": 258717
+        },
+        "qoi": {
+            "encode": 886,
+            "decode": 530,
+            "size": 245626
+        },
+        "name": "perforated_0035.png",
+        "epoch": 0,
+        "dimension": [
+            320,
+            320
+        ],
+        "pixels": 102400
+    },
+    {
+        "png": {
+            "encode": 20444,
+            "decode": 1623,
+            "size": 111749
+        },
+        "qoi": {
+            "encode": 840,
+            "decode": 599,
+            "size": 133909
+        },
+        "name": "bumpy_0079.png",
+        "epoch": 0,
+        "dimension": [
+            300,
+            300
+        ],
+        "pixels": 90000
+    },
+    {
+        "png": {
+            "encode": 72462,
+            "decode": 4447,
+            "size": 457186
+        },
+        "qoi": {
+            "encode": 1868,
+            "decode": 1177,
+            "size": 426277
+        },
+        "name": "zigzagged_0024.png",
+        "epoch": 0,
+        "dimension": [
+            554,
+            416
+        ],
+        "pixels": 230464
+    },
+    {
+        "png": {
+            "encode": 37605,
+            "decode": 5214,
+            "size": 558534
+        },
+        "qoi": {
+            "encode": 1748,
+            "decode": 853,
+            "size": 530519
+        },
+        "name": "frilly_0017.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            375
+        ],
+        "pixels": 187500
+    },
+    {
+        "png": {
+            "encode": 76300,
+            "decode": 5379,
+            "size": 592579
+        },
+        "qoi": {
+            "encode": 1823,
+            "decode": 1148,
+            "size": 592145
+        },
+        "name": "cracked_0097.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            427
+        ],
+        "pixels": 273280
+    },
+    {
+        "png": {
+            "encode": 89279,
+            "decode": 5746,
+            "size": 484311
+        },
+        "qoi": {
+            "encode": 2143,
+            "decode": 1214,
+            "size": 502125
+        },
+        "name": "frilly_0016.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            500
+        ],
+        "pixels": 250000
+    },
+    {
+        "png": {
+            "encode": 68319,
+            "decode": 9250,
+            "size": 1046966
+        },
+        "qoi": {
+            "encode": 3699,
+            "decode": 1028,
+            "size": 1326562
+        },
+        "name": "zigzagged_0025.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            549
+        ],
+        "pixels": 351360
+    },
+    {
+        "png": {
+            "encode": 34569,
+            "decode": 3054,
+            "size": 326375
+        },
+        "qoi": {
+            "encode": 1031,
+            "decode": 572,
+            "size": 305145
+        },
+        "name": "perforated_0034.png",
+        "epoch": 0,
+        "dimension": [
+            400,
+            304
+        ],
+        "pixels": 121600
+    },
+    {
+        "png": {
+            "encode": 34767,
+            "decode": 2790,
+            "size": 287630
+        },
+        "qoi": {
+            "encode": 1092,
+            "decode": 515,
+            "size": 272086
+        },
+        "name": "blotchy_0057.png",
+        "epoch": 0,
+        "dimension": [
+            360,
+            360
+        ],
+        "pixels": 129600
+    },
+    {
+        "png": {
+            "encode": 52851,
+            "decode": 3896,
+            "size": 233118
+        },
+        "qoi": {
+            "encode": 1390,
+            "decode": 897,
+            "size": 232594
+        },
+        "name": "flecked_0057.png",
+        "epoch": 0,
+        "dimension": [
+            500,
+            500
+        ],
+        "pixels": 250000
+    },
+    {
+        "png": {
+            "encode": 100939,
+            "decode": 4420,
+            "size": 326988
+        },
+        "qoi": {
+            "encode": 3220,
+            "decode": 1772,
+            "size": 712844
+        },
+        "name": "banded_0042.png",
+        "epoch": 0,
+        "dimension": [
+            639,
+            458
+        ],
+        "pixels": 292662
+    },
+    {
+        "png": {
+            "encode": 100188,
+            "decode": 7099,
+            "size": 555468
+        },
+        "qoi": {
+            "encode": 2318,
+            "decode": 1585,
+            "size": 537935
+        },
+        "name": "stratified_0048.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 153547,
+            "decode": 8352,
+            "size": 548727
+        },
+        "qoi": {
+            "encode": 3078,
+            "decode": 2384,
+            "size": 640368
+        },
+        "name": "crystalline_0113.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            637
+        ],
+        "pixels": 407680
+    },
+    {
+        "png": {
+            "encode": 50031,
+            "decode": 4052,
+            "size": 402403
+        },
+        "qoi": {
+            "encode": 1851,
+            "decode": 976,
+            "size": 417571
+        },
+        "name": "zigzagged_0021.png",
+        "epoch": 0,
+        "dimension": [
+            432,
+            432
+        ],
+        "pixels": 186624
+    },
+    {
+        "png": {
+            "encode": 112376,
+            "decode": 8949,
+            "size": 659546
+        },
+        "qoi": {
+            "encode": 2688,
+            "decode": 1351,
+            "size": 637285
+        },
+        "name": "fibrous_0111.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            515
+        ],
+        "pixels": 329600
+    },
+    {
+        "png": {
+            "encode": 37021,
+            "decode": 5019,
+            "size": 243292
+        },
+        "qoi": {
+            "encode": 1376,
+            "decode": 913,
+            "size": 172620
+        },
+        "name": "chequered_0046.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 70120,
+            "decode": 4934,
+            "size": 427135
+        },
+        "qoi": {
+            "encode": 1526,
+            "decode": 894,
+            "size": 422618
+        },
+        "name": "fibrous_0110.png",
+        "epoch": 0,
+        "dimension": [
+            545,
+            408
+        ],
+        "pixels": 222360
+    },
+    {
+        "png": {
+            "encode": 54229,
+            "decode": 3644,
+            "size": 316196
+        },
+        "qoi": {
+            "encode": 1304,
+            "decode": 680,
+            "size": 353012
+        },
+        "name": "striped_0008.png",
+        "epoch": 0,
+        "dimension": [
+            387,
+            414
+        ],
+        "pixels": 160218
+    },
+    {
+        "png": {
+            "encode": 108797,
+            "decode": 6432,
+            "size": 372072
+        },
+        "qoi": {
+            "encode": 2674,
+            "decode": 2009,
+            "size": 457694
+        },
+        "name": "crystalline_0112.png",
+        "epoch": 0,
+        "dimension": [
+            556,
+            547
+        ],
+        "pixels": 304132
+    },
+    {
+        "png": {
+            "encode": 81027,
+            "decode": 6143,
+            "size": 423464
+        },
+        "qoi": {
+            "encode": 2647,
+            "decode": 2015,
+            "size": 495912
+        },
+        "name": "stratified_0049.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 14180,
+            "decode": 756,
+            "size": 8578
+        },
+        "qoi": {
+            "encode": 1721,
+            "decode": 1177,
+            "size": 720218
+        },
+        "name": "banded_0043.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 65474,
+            "decode": 4027,
+            "size": 539575
+        },
+        "qoi": {
+            "encode": 2219,
+            "decode": 1518,
+            "size": 611756
+        },
+        "name": "flecked_0056.png",
+        "epoch": 0,
+        "dimension": [
+            426,
+            639
+        ],
+        "pixels": 272214
+    },
+    {
+        "png": {
+            "encode": 43597,
+            "decode": 2812,
+            "size": 311687
+        },
+        "qoi": {
+            "encode": 1078,
+            "decode": 626,
+            "size": 289345
+        },
+        "name": "blotchy_0044.png",
+        "epoch": 0,
+        "dimension": [
+            450,
+            337
+        ],
+        "pixels": 151650
+    },
+    {
+        "png": {
+            "encode": 149944,
+            "decode": 7702,
+            "size": 662578
+        },
+        "qoi": {
+            "encode": 3705,
+            "decode": 2484,
+            "size": 628196
+        },
+        "name": "banded_0041.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 40358,
+            "decode": 2741,
+            "size": 127228
+        },
+        "qoi": {
+            "encode": 1263,
+            "decode": 967,
+            "size": 172132
+        },
+        "name": "crystalline_0110.png",
+        "epoch": 0,
+        "dimension": [
+            412,
+            367
+        ],
+        "pixels": 151204
+    },
+    {
+        "png": {
+            "encode": 72701,
+            "decode": 7048,
+            "size": 807446
+        },
+        "qoi": {
+            "encode": 2926,
+            "decode": 1643,
+            "size": 694699
+        },
+        "name": "perforated_0033.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 44525,
+            "decode": 4179,
+            "size": 397816
+        },
+        "qoi": {
+            "encode": 2003,
+            "decode": 1049,
+            "size": 458726
+        },
+        "name": "zigzagged_0022.png",
+        "epoch": 0,
+        "dimension": [
+            400,
+            500
+        ],
+        "pixels": 200000
+    },
+    {
+        "png": {
+            "encode": 99265,
+            "decode": 6943,
+            "size": 594575
+        },
+        "qoi": {
+            "encode": 2158,
+            "decode": 1291,
+            "size": 590124
+        },
+        "name": "fibrous_0112.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 48180,
+            "decode": 4174,
+            "size": 229413
+        },
+        "qoi": {
+            "encode": 1448,
+            "decode": 958,
+            "size": 198168
+        },
+        "name": "chequered_0050.png",
+        "epoch": 0,
+        "dimension": [
+            459,
+            459
+        ],
+        "pixels": 210681
+    },
+    {
+        "png": {
+            "encode": 13927,
+            "decode": 1035,
+            "size": 10778
+        },
+        "qoi": {
+            "encode": 620,
+            "decode": 296,
+            "size": 46480
+        },
+        "name": "chequered_0045.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 45169,
+            "decode": 3753,
+            "size": 423074
+        },
+        "qoi": {
+            "encode": 1195,
+            "decode": 643,
+            "size": 353369
+        },
+        "name": "zigzagged_0023.png",
+        "epoch": 0,
+        "dimension": [
+            534,
+            315
+        ],
+        "pixels": 168210
+    },
+    {
+        "png": {
+            "encode": 36602,
+            "decode": 3569,
+            "size": 388704
+        },
+        "qoi": {
+            "encode": 1129,
+            "decode": 600,
+            "size": 339360
+        },
+        "name": "perforated_0026.png",
+        "epoch": 0,
+        "dimension": [
+            429,
+            329
+        ],
+        "pixels": 141141
+    },
+    {
+        "png": {
+            "encode": 44866,
+            "decode": 3233,
+            "size": 211766
+        },
+        "qoi": {
+            "encode": 1350,
+            "decode": 936,
+            "size": 233138
+        },
+        "name": "crystalline_0111.png",
+        "epoch": 0,
+        "dimension": [
+            345,
+            422
+        ],
+        "pixels": 145590
+    },
+    {
+        "png": {
+            "encode": 98668,
+            "decode": 5857,
+            "size": 440126
+        },
+        "qoi": {
+            "encode": 2228,
+            "decode": 1216,
+            "size": 540101
+        },
+        "name": "blotchy_0060.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            400
+        ],
+        "pixels": 256000
+    },
+    {
+        "png": {
+            "encode": 109315,
+            "decode": 7775,
+            "size": 1095645
+        },
+        "qoi": {
+            "encode": 2822,
+            "decode": 1550,
+            "size": 968791
+        },
+        "name": "flecked_0058.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 43669,
+            "decode": 4454,
+            "size": 387808
+        },
+        "qoi": {
+            "encode": 1472,
+            "decode": 799,
+            "size": 356347
+        },
+        "name": "stratified_0047.png",
+        "epoch": 0,
+        "dimension": [
+            510,
+            335
+        ],
+        "pixels": 170850
+    },
+    {
+        "png": {
+            "encode": 49429,
+            "decode": 3204,
+            "size": 218815
+        },
+        "qoi": {
+            "encode": 1114,
+            "decode": 637,
+            "size": 245415
+        },
+        "name": "striped_0006.png",
+        "epoch": 0,
+        "dimension": [
+            394,
+            343
+        ],
+        "pixels": 135142
+    },
+    {
+        "png": {
+            "encode": 34495,
+            "decode": 3191,
+            "size": 385874
+        },
+        "qoi": {
+            "encode": 1174,
+            "decode": 600,
+            "size": 352625
+        },
+        "name": "striped_0012.png",
+        "epoch": 0,
+        "dimension": [
+            460,
+            313
+        ],
+        "pixels": 143980
+    },
+    {
+        "png": {
+            "encode": 109114,
+            "decode": 6622,
+            "size": 558966
+        },
+        "qoi": {
+            "encode": 2449,
+            "decode": 1406,
+            "size": 559951
+        },
+        "name": "braided_0103.png",
+        "epoch": 0,
+        "dimension": [
+            600,
+            492
+        ],
+        "pixels": 295200
+    },
+    {
+        "png": {
+            "encode": 35153,
+            "decode": 2630,
+            "size": 206992
+        },
+        "qoi": {
+            "encode": 928,
+            "decode": 445,
+            "size": 219557
+        },
+        "name": "bumpy_0073.png",
+        "epoch": 0,
+        "dimension": [
+            333,
+            312
+        ],
+        "pixels": 103896
+    },
+    {
+        "png": {
+            "encode": 13580,
+            "decode": 868,
+            "size": 6747
+        },
+        "qoi": {
+            "encode": 634,
+            "decode": 242,
+            "size": 41585
+        },
+        "name": "chequered_0048.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 27630,
+            "decode": 3929,
+            "size": 111181
+        },
+        "qoi": {
+            "encode": 901,
+            "decode": 569,
+            "size": 80369
+        },
+        "name": "chequered_0049.png",
+        "epoch": 0,
+        "dimension": [
+            622,
+            622
+        ],
+        "pixels": 386884
+    },
+    {
+        "png": {
+            "encode": 33575,
+            "decode": 3124,
+            "size": 332250
+        },
+        "qoi": {
+            "encode": 1039,
+            "decode": 589,
+            "size": 308827
+        },
+        "name": "bumpy_0072.png",
+        "epoch": 0,
+        "dimension": [
+            380,
+            340
+        ],
+        "pixels": 129200
+    },
+    {
+        "png": {
+            "encode": 131091,
+            "decode": 7287,
+            "size": 579501
+        },
+        "qoi": {
+            "encode": 2611,
+            "decode": 1488,
+            "size": 604841
+        },
+        "name": "braided_0102.png",
+        "epoch": 0,
+        "dimension": [
+            600,
+            549
+        ],
+        "pixels": 329400
+    },
+    {
+        "png": {
+            "encode": 27604,
+            "decode": 1912,
+            "size": 212255
+        },
+        "qoi": {
+            "encode": 1190,
+            "decode": 746,
+            "size": 198869
+        },
+        "name": "stratified_0046.png",
+        "epoch": 0,
+        "dimension": [
+            360,
+            316
+        ],
+        "pixels": 113760
+    },
+    {
+        "png": {
+            "encode": 99571,
+            "decode": 7043,
+            "size": 841858
+        },
+        "qoi": {
+            "encode": 2491,
+            "decode": 1461,
+            "size": 772943
+        },
+        "name": "cracked_0101.png",
+        "epoch": 0,
+        "dimension": [
+            592,
+            587
+        ],
+        "pixels": 347504
+    },
+    {
+        "png": {
+            "encode": 66396,
+            "decode": 5293,
+            "size": 567602
+        },
+        "qoi": {
+            "encode": 2736,
+            "decode": 1060,
+            "size": 848856
+        },
+        "name": "stratified_0050.png",
+        "epoch": 0,
+        "dimension": [
+            512,
+            512
+        ],
+        "pixels": 262144
+    },
+    {
+        "png": {
+            "encode": 34328,
+            "decode": 2712,
+            "size": 175333
+        },
+        "qoi": {
+            "encode": 1052,
+            "decode": 730,
+            "size": 209692
+        },
+        "name": "striped_0011.png",
+        "epoch": 0,
+        "dimension": [
+            319,
+            385
+        ],
+        "pixels": 122815
+    },
+    {
+        "png": {
+            "encode": 58112,
+            "decode": 4181,
+            "size": 322183
+        },
+        "qoi": {
+            "encode": 2078,
+            "decode": 1589,
+            "size": 377112
+        },
+        "name": "bumpy_0070.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            427
+        ],
+        "pixels": 273280
+    },
+    {
+        "png": {
+            "encode": 28079,
+            "decode": 2908,
+            "size": 307839
+        },
+        "qoi": {
+            "encode": 961,
+            "decode": 493,
+            "size": 270300
+        },
+        "name": "fibrous_0109.png",
+        "epoch": 0,
+        "dimension": [
+            380,
+            300
+        ],
+        "pixels": 114000
+    },
+    {
+        "png": {
+            "encode": 22980,
+            "decode": 2983,
+            "size": 320414
+        },
+        "qoi": {
+            "encode": 1168,
+            "decode": 519,
+            "size": 332646
+        },
+        "name": "fibrous_0108.png",
+        "epoch": 0,
+        "dimension": [
+            356,
+            311
+        ],
+        "pixels": 110716
+    },
+    {
+        "png": {
+            "encode": 83514,
+            "decode": 5676,
+            "size": 718540
+        },
+        "qoi": {
+            "encode": 2308,
+            "decode": 1476,
+            "size": 720559
+        },
+        "name": "braided_0101.png",
+        "epoch": 0,
+        "dimension": [
+            625,
+            485
+        ],
+        "pixels": 303125
+    },
+    {
+        "png": {
+            "encode": 34644,
+            "decode": 2620,
+            "size": 206506
+        },
+        "qoi": {
+            "encode": 841,
+            "decode": 447,
+            "size": 210896
+        },
+        "name": "striped_0010.png",
+        "epoch": 0,
+        "dimension": [
+            343,
+            318
+        ],
+        "pixels": 109074
+    },
+    {
+        "png": {
+            "encode": 80296,
+            "decode": 6252,
+            "size": 790624
+        },
+        "qoi": {
+            "encode": 2177,
+            "decode": 1265,
+            "size": 684079
+        },
+        "name": "cracked_0100.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 46170,
+            "decode": 3952,
+            "size": 361430
+        },
+        "qoi": {
+            "encode": 1234,
+            "decode": 608,
+            "size": 320737
+        },
+        "name": "braided_0105.png",
+        "epoch": 0,
+        "dimension": [
+            406,
+            401
+        ],
+        "pixels": 162806
+    },
+    {
+        "png": {
+            "encode": 101503,
+            "decode": 5870,
+            "size": 499346
+        },
+        "qoi": {
+            "encode": 2288,
+            "decode": 1409,
+            "size": 467005
+        },
+        "name": "blotchy_0059.png",
+        "epoch": 0,
+        "dimension": [
+            420,
+            639
+        ],
+        "pixels": 268380
+    },
+    {
+        "png": {
+            "encode": 134281,
+            "decode": 5561,
+            "size": 462344
+        },
+        "qoi": {
+            "encode": 2905,
+            "decode": 2101,
+            "size": 521255
+        },
+        "name": "flecked_0061.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            512
+        ],
+        "pixels": 327680
+    },
+    {
+        "png": {
+            "encode": 64963,
+            "decode": 6117,
+            "size": 524882
+        },
+        "qoi": {
+            "encode": 2195,
+            "decode": 1288,
+            "size": 543857
+        },
+        "name": "braided_0106.png",
+        "epoch": 0,
+        "dimension": [
+            600,
+            450
+        ],
+        "pixels": 270000
+    },
+    {
+        "png": {
+            "encode": 54194,
+            "decode": 3792,
+            "size": 334473
+        },
+        "qoi": {
+            "encode": 1945,
+            "decode": 1512,
+            "size": 360510
+        },
+        "name": "cracked_0098.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            400
+        ],
+        "pixels": 256000
+    },
+    {
+        "png": {
+            "encode": 53934,
+            "decode": 6808,
+            "size": 750335
+        },
+        "qoi": {
+            "encode": 3101,
+            "decode": 1060,
+            "size": 920686
+        },
+        "name": "frilly_0018.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            427
+        ],
+        "pixels": 273280
+    },
+    {
+        "png": {
+            "encode": 73889,
+            "decode": 7874,
+            "size": 773544
+        },
+        "qoi": {
+            "encode": 2723,
+            "decode": 1374,
+            "size": 773247
+        },
+        "name": "cracked_0099.png",
+        "epoch": 0,
+        "dimension": [
+            639,
+            485
+        ],
+        "pixels": 309915
+    },
+    {
+        "png": {
+            "encode": 45106,
+            "decode": 3368,
+            "size": 272852
+        },
+        "qoi": {
+            "encode": 1249,
+            "decode": 560,
+            "size": 282737
+        },
+        "name": "frilly_0019.png",
+        "epoch": 0,
+        "dimension": [
+            432,
+            301
+        ],
+        "pixels": 130032
+    },
+    {
+        "png": {
+            "encode": 43031,
+            "decode": 3507,
+            "size": 354405
+        },
+        "qoi": {
+            "encode": 1111,
+            "decode": 612,
+            "size": 328473
+        },
+        "name": "bumpy_0077.png",
+        "epoch": 0,
+        "dimension": [
+            437,
+            348
+        ],
+        "pixels": 152076
+    },
+    {
+        "png": {
+            "encode": 50637,
+            "decode": 4000,
+            "size": 200573
+        },
+        "qoi": {
+            "encode": 1118,
+            "decode": 1027,
+            "size": 272341
+        },
+        "name": "flecked_0060.png",
+        "epoch": 0,
+        "dimension": [
+            512,
+            512
+        ],
+        "pixels": 262144
+    },
+    {
+        "png": {
+            "encode": 28576,
+            "decode": 1842,
+            "size": 280448
+        },
+        "qoi": {
+            "encode": 1210,
+            "decode": 693,
+            "size": 247002
+        },
+        "name": "blotchy_0058.png",
+        "epoch": 0,
+        "dimension": [
+            338,
+            329
+        ],
+        "pixels": 111202
+    },
+    {
+        "png": {
+            "encode": 63173,
+            "decode": 4405,
+            "size": 329199
+        },
+        "qoi": {
+            "encode": 1668,
+            "decode": 1110,
+            "size": 356978
+        },
+        "name": "bubbly_0078.png",
+        "epoch": 0,
+        "dimension": [
+            452,
+            461
+        ],
+        "pixels": 208372
+    },
+    {
+        "png": {
+            "encode": 96666,
+            "decode": 6579,
+            "size": 539174
+        },
+        "qoi": {
+            "encode": 2217,
+            "decode": 1228,
+            "size": 564381
+        },
+        "name": "swirly_0067.png",
+        "epoch": 0,
+        "dimension": [
+            427,
+            640
+        ],
+        "pixels": 273280
+    },
+    {
+        "png": {
+            "encode": 63121,
+            "decode": 4460,
+            "size": 366931
+        },
+        "qoi": {
+            "encode": 1425,
+            "decode": 878,
+            "size": 369513
+        },
+        "name": "bubbly_0079.png",
+        "epoch": 0,
+        "dimension": [
+            427,
+            465
+        ],
+        "pixels": 198555
+    },
+    {
+        "png": {
+            "encode": 50800,
+            "decode": 4674,
+            "size": 386763
+        },
+        "qoi": {
+            "encode": 1794,
+            "decode": 809,
+            "size": 532163
+        },
+        "name": "banded_0039.png",
+        "epoch": 0,
+        "dimension": [
+            432,
+            432
+        ],
+        "pixels": 186624
+    },
+    {
+        "png": {
+            "encode": 27506,
+            "decode": 3142,
+            "size": 273569
+        },
+        "qoi": {
+            "encode": 1318,
+            "decode": 543,
+            "size": 309844
+        },
+        "name": "swirly_0071.png",
+        "epoch": 0,
+        "dimension": [
+            320,
+            320
+        ],
+        "pixels": 102400
+    },
+    {
+        "png": {
+            "encode": 128482,
+            "decode": 6313,
+            "size": 404107
+        },
+        "qoi": {
+            "encode": 2265,
+            "decode": 1551,
+            "size": 503907
+        },
+        "name": "swirly_0070.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            480
+        ],
+        "pixels": 307200
+    },
+    {
+        "png": {
+            "encode": 10729,
+            "decode": 1025,
+            "size": 19761
+        },
+        "qoi": {
+            "encode": 498,
+            "decode": 323,
+            "size": 68908
+        },
+        "name": "grid_0019.png",
+        "epoch": 0,
+        "dimension": [
+            512,
+            512
+        ],
+        "pixels": 262144
+    },
+    {
+        "png": {
+            "encode": 122065,
+            "decode": 9564,
+            "size": 891779
+        },
+        "qoi": {
+            "encode": 2992,
+            "decode": 1532,
+            "size": 850724
+        },
+        "name": "dotted_0078.png",
+        "epoch": 0,
+        "dimension": [
+            640,
+            640
+        ],
+        "pixels": 409600
+    },
+    {
+        "png": {
+            "encode": 864565,
+            "decode": 54160,
+            "size": 4552782
+        },
+        "qoi": {
+            "encode": 22581,
+            "decode": 17446,
+            "size": 5058741
+        },
+        "name": "landscape.png",
+        "epoch": 0,
+        "dimension": [
+            2048,
+            1357
+        ],
+        "pixels": 2779136
+    },
+    {
+        "png": {
+            "encode": 73261,
+            "decode": 3930,
+            "size": 439368
+        },
+        "qoi": {
+            "encode": 3473,
+            "decode": 2345,
+            "size": 421234
+        },
+        "name": "wikilogo.png",
+        "epoch": 0,
+        "dimension": [
+            1058,
+            1058
+        ],
+        "pixels": 1119364
+    },
+    {
+        "png": {
+            "encode": 79555,
+            "decode": 2164,
+            "size": 165954
+        },
+        "qoi": {
+            "encode": 2180,
+            "decode": 1691,
+            "size": 433228
+        },
+        "name": "spiral_rainbow.png",
+        "epoch": 0,
+        "dimension": [
+            730,
+            730
+        ],
+        "pixels": 532900
+    },
+    {
+        "png": {
+            "encode": 99390,
+            "decode": 10582,
+            "size": 324511
+        },
+        "qoi": {
+            "encode": 3611,
+            "decode": 1719,
+            "size": 304924
+        },
+        "name": "regularshow.png",
+        "epoch": 0,
+        "dimension": [
+            1563,
+            1500
+        ],
+        "pixels": 2344500
+    }
+]
